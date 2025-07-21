@@ -6,7 +6,7 @@ This is a simple and modern calculator built using **HTML**, **CSS**, and **Java
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view live]()
+🔗 [Click here to view live](https://atul21mangla.github.io/Web-Calculator/)
 
 ---
 
